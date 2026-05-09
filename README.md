@@ -1,7 +1,9 @@
 # ¡Hola, soy Santiago! 👋
 
 💻 **Tecnólogo en análisis y desarrollo de sistemas de información**
+
 👨🏽‍💻 **Estudiante de desarrollo de software con AI**
+
 🏍️ **Motero**
 
 Desarrollador Frontend con más de 4 años de experiencia en maquetación web, email marketing y creación
